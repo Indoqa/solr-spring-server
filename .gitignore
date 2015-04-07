@@ -7,3 +7,4 @@ release.properties
 .settings/
 .classpath
 .project
+_rest_managed.json
