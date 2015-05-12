@@ -23,7 +23,7 @@
 
   <groupId>com.indoqa.solr</groupId>
   <artifactId>spring-server</artifactId>
-  <version>4.10.0-SNAPSHOT</version>
+  <version>4.10.0</version>
 
   <name>Solr Spring Server</name>
   <description>A Solr Server Factory for Spring</description>
@@ -32,6 +32,7 @@
     <connection>scm:git:git@github.com:Indoqa/solr-spring-server.git</connection>
     <developerConnection>scm:git:git@github.com:Indoqa/solr-spring-server.git</developerConnection>
     <url>https://github.com/Indoqa/solr-spring-server</url>
+    <tag>spring-server-4.10.0</tag>
   </scm>
 
   <licenses>
