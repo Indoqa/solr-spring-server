@@ -67,6 +67,12 @@
       <artifactId>solr-core</artifactId>
       <version>${solr-version}</version>
       <optional>true</optional>
+      <exclusions>
+        <exclusion>
+          <groupId>org.apache.hadoop</groupId>
+          <artifactId>hadoop-annotations</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
 
     <dependency>
